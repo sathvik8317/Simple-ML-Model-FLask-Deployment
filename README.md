@@ -7,4 +7,10 @@ model.py is for developing and training ML Model
 server.py is for handling POST requests
 
 
-This is a simple Linear Regression model which us used for Salary Predicition
+This is a simple Linear Regression model which is used for Salary Prediction
+
+Run 'python model.py' on the terminal
+then python server.py which gives the local server url 
+By opening , you can predict the salaries.
+
+
